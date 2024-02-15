@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleProject6</string>
+    <string name="question_mark">\?</string>
+    <string name="next">Next</string>
+</resources>
